@@ -1,7 +1,7 @@
 jupyter
 torch
 torchvision
-sklearn
+scikit-learn
 matplotlib
 tqdm
 tensorboard
