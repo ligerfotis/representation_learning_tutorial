@@ -4,3 +4,4 @@ torchvision
 sklearn
 matplotlib
 tqdm
+tensorboard
