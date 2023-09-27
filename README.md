@@ -11,6 +11,7 @@ Jupyter notebooks:
 
 #### Contractive Learning (SimCLR)
 In this demo we implemented the SimClR [1] algorithm and trained it on the cifar10 dataset.
+Download the pretrained encoder [here](https://cloud.cps.unileoben.ac.at/index.php/s/feHYqRHwDy7mMDm) and put it in the folder `runs`.
 The code was adapted from this [repo](https://github.com/sthalles/SimCLR/tree/master)
 
 
