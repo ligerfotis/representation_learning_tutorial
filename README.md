@@ -16,5 +16,8 @@ Download the pretrained encoder [here](https://cloud.cps.unileoben.ac.at/index.p
 
 The code was adapted from this [repo](https://github.com/sthalles/SimCLR/tree/master)
 
+Jupyter notebooks:
+* simclr.ipynb
+
 
 [1] Ting Chen, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton. 2020. A simple framework for contrastive learning of visual representations. In Proceedings of the 37th International Conference on Machine Learning (ICML'20), Vol. 119. JMLR.org, Article 149, 1597–1607.
