@@ -1,1 +1,1 @@
-reconstruction_loss: 0.0012660158336162566linear_classification_accuracy: 0.3664knn_classification_accuracy: 0.3835clustering_ari_score: 0.038204941441603774
+reconstruction_loss: 0.001255071537196636linear_classification_accuracy: 0.3665knn_classification_accuracy: 0.3889clustering_ari_score: 0.02700985553219709
